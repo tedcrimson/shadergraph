@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: b292c64dad43136459caca385ac847bc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002
+    100004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002
+    100006: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016
+    100008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002
+    100010: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016
+    100012: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016
+    100014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002
+    100016: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016
+    100018: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016
+    100020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002
+    100022: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016
+    100024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Body
+    100026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002
+    100028: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016
+    100030: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016
+    100032: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016
+    100034: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rouge
+    100036: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optique
+    100038: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noir
+    100040: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glass
+    100042: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blanc
+    100044: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_Chrome
+    100046: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noir
+    100048: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stop
+    100050: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_Frein
+    100052: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700
+    100054: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016
+    100056: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_color
+    100058: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_color
+    100060: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_color
+    100062: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_color
+    100064: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_color
+    100066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Jante
+    100068: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002
+    100070: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noir
+    100072: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_Grille
+    100074: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blanc
+    100076: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015
+    100078: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_Moteur
+    100080: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chrome
+    100082: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noir
+    100084: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_Dessous
+    100086: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_c
+    100088: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_Logo
+    100090: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_Logo
+    100092: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_Logo
+    100094: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_Logo
+    100096: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_Logo
+    100098: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orange
+    100100: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_Miroir
+    100102: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_Phare
+    100104: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_Vitre
+    100106: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_alu
+    100108: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitre
+    100110: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2
+    100112: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_Disk
+    100114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002
+    100116: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016
+    100118: None_Pneus_Pneus__None_Pneus_Pneus__pneus2
+    100120: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_Pneus
+    100122: Plane.007_Plane.007_Material.017
+    100124: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pn
+    400000: //RootNode
+    400002: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002
+    400004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002
+    400006: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016
+    400008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002
+    400010: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016
+    400012: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016
+    400014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002
+    400016: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016
+    400018: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016
+    400020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002
+    400022: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016
+    400024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Body
+    400026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002
+    400028: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016
+    400030: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016
+    400032: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016
+    400034: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rouge
+    400036: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optique
+    400038: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noir
+    400040: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glass
+    400042: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blanc
+    400044: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_Chrome
+    400046: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noir
+    400048: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stop
+    400050: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_Frein
+    400052: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700
+    400054: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016
+    400056: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_color
+    400058: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_color
+    400060: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_color
+    400062: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_color
+    400064: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_color
+    400066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Jante
+    400068: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002
+    400070: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noir
+    400072: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_Grille
+    400074: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blanc
+    400076: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015
+    400078: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_Moteur
+    400080: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chrome
+    400082: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noir
+    400084: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_Dessous
+    400086: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_c
+    400088: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_Logo
+    400090: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_Logo
+    400092: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_Logo
+    400094: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_Logo
+    400096: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_Logo
+    400098: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orange
+    400100: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_Miroir
+    400102: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_Phare
+    400104: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_Vitre
+    400106: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_alu
+    400108: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitre
+    400110: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2
+    400112: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_Disk
+    400114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002
+    400116: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016
+    400118: None_Pneus_Pneus__None_Pneus_Pneus__pneus2
+    400120: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_Pneus
+    400122: Plane.007_Plane.007_Material.017
+    400124: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pn
+    2100000: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002Mat
+    2100002: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002Mat
+    2100004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016Mat
+    2100006: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002Mat
+    2100008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016Mat
+    2100010: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016Mat
+    2100012: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002Mat
+    2100014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016Mat
+    2100016: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016Mat
+    2100018: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002Mat
+    2100020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016Mat
+    2100022: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_BodyMat
+    2100024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002Mat
+    2100026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016Mat
+    2100028: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016Mat
+    2100030: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016Mat
+    2100032: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rougeMat
+    2100034: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optiqueMat
+    2100036: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noirMat
+    2100038: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glassMat
+    2100040: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blancMat
+    2100042: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_ChromeMat
+    2100044: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noirMat
+    2100046: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stopMat
+    2100048: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_FreinMat
+    2100050: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700Mat
+    2100052: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016Mat
+    2100054: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_colorMat
+    2100056: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_colorMat
+    2100058: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_colorMat
+    2100060: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_colorMat
+    2100062: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_colorMat
+    2100064: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_JanteMat
+    2100066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002Mat
+    2100068: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noirMat
+    2100070: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_GrilleMat
+    2100072: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blancMat
+    2100074: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015Mat
+    2100076: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_MoteurMat
+    2100078: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chromeMat
+    2100080: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noirMat
+    2100082: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_DessousMat
+    2100084: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_cMat
+    2100086: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_LogoMat
+    2100088: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_LogoMat
+    2100090: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_LogoMat
+    2100092: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_LogoMat
+    2100094: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_LogoMat
+    2100096: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orangeMat
+    2100098: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_MiroirMat
+    2100100: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_PhareMat
+    2100102: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_VitreMat
+    2100104: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_aluMat
+    2100106: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitreMat
+    2100108: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2Mat
+    2100110: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_DiskMat
+    2100112: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002Mat
+    2100114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016Mat
+    2100116: None_Pneus_Pneus__None_Pneus_Pneus__pneus2Mat
+    2100118: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_PneusMat
+    2100120: Plane.007_Plane.007_Material.017Mat
+    2100122: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pnMat
+    2300000: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002
+    2300002: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002
+    2300004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016
+    2300006: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002
+    2300008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016
+    2300010: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016
+    2300012: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002
+    2300014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016
+    2300016: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016
+    2300018: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002
+    2300020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016
+    2300022: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Body
+    2300024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002
+    2300026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016
+    2300028: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016
+    2300030: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016
+    2300032: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rouge
+    2300034: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optique
+    2300036: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noir
+    2300038: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glass
+    2300040: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blanc
+    2300042: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_Chrome
+    2300044: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noir
+    2300046: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stop
+    2300048: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_Frein
+    2300050: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700
+    2300052: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016
+    2300054: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_color
+    2300056: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_color
+    2300058: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_color
+    2300060: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_color
+    2300062: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_color
+    2300064: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Jante
+    2300066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002
+    2300068: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noir
+    2300070: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_Grille
+    2300072: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blanc
+    2300074: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015
+    2300076: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_Moteur
+    2300078: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chrome
+    2300080: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noir
+    2300082: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_Dessous
+    2300084: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_c
+    2300086: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_Logo
+    2300088: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_Logo
+    2300090: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_Logo
+    2300092: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_Logo
+    2300094: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_Logo
+    2300096: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orange
+    2300098: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_Miroir
+    2300100: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_Phare
+    2300102: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_Vitre
+    2300104: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_alu
+    2300106: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitre
+    2300108: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2
+    2300110: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_Disk
+    2300112: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002
+    2300114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016
+    2300116: None_Pneus_Pneus__None_Pneus_Pneus__pneus2
+    2300118: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_Pneus
+    2300120: Plane.007_Plane.007_Material.017
+    2300122: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pn
+    3300000: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002
+    3300002: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002
+    3300004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016
+    3300006: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002
+    3300008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016
+    3300010: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016
+    3300012: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002
+    3300014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016
+    3300016: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016
+    3300018: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002
+    3300020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016
+    3300022: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Body
+    3300024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002
+    3300026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016
+    3300028: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016
+    3300030: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016
+    3300032: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rouge
+    3300034: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optique
+    3300036: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noir
+    3300038: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glass
+    3300040: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blanc
+    3300042: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_Chrome
+    3300044: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noir
+    3300046: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stop
+    3300048: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_Frein
+    3300050: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700
+    3300052: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016
+    3300054: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_color
+    3300056: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_color
+    3300058: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_color
+    3300060: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_color
+    3300062: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_color
+    3300064: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Jante
+    3300066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002
+    3300068: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noir
+    3300070: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_Grille
+    3300072: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blanc
+    3300074: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015
+    3300076: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_Moteur
+    3300078: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chrome
+    3300080: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noir
+    3300082: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_Dessous
+    3300084: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_c
+    3300086: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_Logo
+    3300088: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_Logo
+    3300090: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_Logo
+    3300092: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_Logo
+    3300094: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_Logo
+    3300096: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orange
+    3300098: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_Miroir
+    3300100: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_Phare
+    3300102: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_Vitre
+    3300104: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_alu
+    3300106: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitre
+    3300108: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2
+    3300110: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_Disk
+    3300112: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002
+    3300114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016
+    3300116: None_Pneus_Pneus__None_Pneus_Pneus__pneus2
+    3300118: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_Pneus
+    3300120: Plane.007_Plane.007_Material.017
+    3300122: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pn
+    4300000: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002
+    4300002: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002
+    4300004: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016
+    4300006: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002
+    4300008: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016
+    4300010: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016
+    4300012: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002
+    4300014: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016
+    4300016: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016
+    4300018: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002
+    4300020: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016
+    4300022: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Body
+    4300024: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002
+    4300026: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016
+    4300028: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016
+    4300030: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016
+    4300032: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rouge
+    4300034: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optique
+    4300036: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noir
+    4300038: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glass
+    4300040: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blanc
+    4300042: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_Chrome
+    4300044: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noir
+    4300046: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stop
+    4300048: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_Frein
+    4300050: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700
+    4300052: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016
+    4300054: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_color
+    4300056: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_color
+    4300058: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_color
+    4300060: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_color
+    4300062: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_color
+    4300064: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Jante
+    4300066: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002
+    4300068: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noir
+    4300070: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_Grille
+    4300072: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blanc
+    4300074: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015
+    4300076: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_Moteur
+    4300078: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chrome
+    4300080: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noir
+    4300082: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_Dessous
+    4300084: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_c
+    4300086: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_Logo
+    4300088: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_Logo
+    4300090: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_Logo
+    4300092: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_Logo
+    4300094: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_Logo
+    4300096: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orange
+    4300098: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_Miroir
+    4300100: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_Phare
+    4300102: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_Vitre
+    4300104: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_alu
+    4300106: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitre
+    4300108: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2
+    4300110: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_Disk
+    4300112: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002
+    4300114: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016
+    4300116: None_Pneus_Pneus__None_Pneus_Pneus__pneus2
+    4300118: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_Pneus
+    4300120: Plane.007_Plane.007_Material.017
+    4300122: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pn
+    2186277476908879412: ImportLogs
+    2186277476908879414: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.001_Mesh.1294_Ma_Mesh.001_Mesh.1294_Ma_Material.002Mat
+    second: {fileID: 2100000, guid: b1805bd5137d1ef45b2117429d021ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.002Mat
+    second: {fileID: 2100000, guid: 57ea2d15d8832cb45a1af4d7e6f00cdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.002_Mesh.1295_Ma_Mesh.002_Mesh.1295_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: 9fa643ba9d9c70442a8b9f9537549923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.002Mat
+    second: {fileID: 2100000, guid: bc9697202c1a620409df42355451a7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.003_Mesh.1296_Ma_Mesh.003_Mesh.1296_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: de42d6de81ef8dd4fbb114347eeeac0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.004_Mesh.1297_Ma_Mesh.004_Mesh.1297_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: 254f175bfa810954d9a1574d45e8cfee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.002Mat
+    second: {fileID: 2100000, guid: 62bf5954225af2246b8c6978bd5b8955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.005_Mesh.1298_Ma_Mesh.005_Mesh.1298_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: 70bfc53d195574a42ba4912c4019d884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.006_Mesh.1299_Bo_Mesh.006_Mesh.1299_Bo_Material.016Mat
+    second: {fileID: 2100000, guid: 5177ec728273eb447ac6e926391065ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.002Mat
+    second: {fileID: 2100000, guid: 8ac8e95ff7584d441b5020d523f0ef3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.007_Mesh.1300_Ma_Mesh.007_Mesh.1300_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: 2101b32e467f2a14698fb1be9d2ac98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_BodyMat
+    second: {fileID: 2100000, guid: a054adf262651134293bbf727bb0339e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.002Mat
+    second: {fileID: 2100000, guid: 9b023b066db171546b26add7b00d9805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.008_Mesh.1301_Bo_Mesh.008_Mesh.1301_Bo_Material.016Mat
+    second: {fileID: 2100000, guid: 2e71719a8a924f743a004760be0bd95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.015_Mesh.1308_Ma_Mesh.015_Mesh.1308_Ma_Material.016Mat
+    second: {fileID: 2100000, guid: 3468367ecfa793d4ead78611e5daa182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.018_Mesh.1311_Bo_Mesh.018_Mesh.1311_Bo_Material.016Mat
+    second: {fileID: 2100000, guid: ecab2b3f01bc42b47a7c528cbeb4c686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1253_Feux_rouge__Mesh.1253_Feux_rouge__Feux_rougeMat
+    second: {fileID: 2100000, guid: 4cc85755a895ffb4ea6c2ae73abf9187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1255_Phare_optiq_Mesh.1255_Phare_optiq_Phare_optiqueMat
+    second: {fileID: 2100000, guid: 0e435df718ece9440bb3a5cdddf6c337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1256_Metal_noir__Mesh.1256_Metal_noir__Metal_noirMat
+    second: {fileID: 2100000, guid: 535034fb3ba80c64186ccd31dd12a143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1257_Feux_glass__Mesh.1257_Feux_glass__Feux_glassMat
+    second: {fileID: 2100000, guid: bf02302104298fb46a98ee91b736304a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1258_Phare_blanc_Mesh.1258_Phare_blanc_Phare_blancMat
+    second: {fileID: 2100000, guid: 2fdd43204ee06a44db4ea19ba822b175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1259_Chrome_Chro_Mesh.1259_Chrome_Chro_ChromeMat
+    second: {fileID: 2100000, guid: fca74b44bfebeb64a948bbded5f752f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1261_Vitre_noir__Mesh.1261_Vitre_noir__Vitre_noirMat
+    second: {fileID: 2100000, guid: d4c6773c58057f245ba9ef5488315e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1262_Feux_stop_F_Mesh.1262_Feux_stop_F_Feux_stopMat
+    second: {fileID: 2100000, guid: 1f9b165f21bada645b8eb3d1b6dc0091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1263_Frein_Frein_Mesh.1263_Frein_Frein_FreinMat
+    second: {fileID: 2100000, guid: 5664f2d0984625d4a8f54231283fbded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1265_LP_700_LP_7_Mesh.1265_LP_700_LP_7_LP_700Mat
+    second: {fileID: 2100000, guid: 45331cc59b0af824dbe1329d99615f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1266_Material.01_Mesh.1266_Material.01_Material.016Mat
+    second: {fileID: 2100000, guid: 3f27c5466beed0e4db4ef2b4729fe570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1267_Logo_co.001_Mesh.1267_Logo_co.001_Logo_colorMat
+    second: {fileID: 2100000, guid: 52898620f4619144ca61d8d00268c3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1267_Logo_co.002_Mesh.1267_Logo_co.002_Logo_colorMat
+    second: {fileID: 2100000, guid: 903f41fbf922ac94b974d1f58ca3632a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1267_Logo_co.003_Mesh.1267_Logo_co.003_Logo_colorMat
+    second: {fileID: 2100000, guid: fee3cf0e5aa0c824f8853cddb22bfe11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1267_Logo_co_Mesh.1267_Logo_co_Logo_colorMat
+    second: {fileID: 2100000, guid: f0b199ddaf332534d9d4120108dacbfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1267_Logo_color__Mesh.1267_Logo_color__Logo_colorMat
+    second: {fileID: 2100000, guid: 1b2eaa84418d30941bb8f1cdfd752d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_JanteMat
+    second: {fileID: 2100000, guid: 51ef9386abf82e849919c9f5458e68c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1268_Jante_Jante_Mesh.1268_Jante_Jante_Material.002Mat
+    second: {fileID: 2100000, guid: 8844ab9c65a4bce478e4a93bbbea9222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1269_Partie_noir_Mesh.1269_Partie_noir_Partie_noirMat
+    second: {fileID: 2100000, guid: 69099db34c28d0049a12f50bc218154d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1270_Grille_Gril_Mesh.1270_Grille_Gril_GrilleMat
+    second: {fileID: 2100000, guid: 03a68eb8f272c32478e6916947428491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1271_Feux_blanc__Mesh.1271_Feux_blanc__Feux_blancMat
+    second: {fileID: 2100000, guid: 1d02766b31d288849be2595a0580c7fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1272_Moteur_Mote_Mesh.1272_Moteur_Mote_MoteurMat
+    second: {fileID: 2100000, guid: 4992e330ba6556c4eacacf5c54c7ea16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1272_Moteur__Mesh.1272_Moteur__Material.015Mat
+    second: {fileID: 2100000, guid: e1c06576cc4f1b94b863fdd0d954e096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1274_Feux_chrome_Mesh.1274_Feux_chrome_Feux_chromeMat
+    second: {fileID: 2100000, guid: ae90ea7c461818c4dbce1c84e117fd0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1276_Plastique_n_Mesh.1276_Plastique_n_Plastique_noirMat
+    second: {fileID: 2100000, guid: e4bbeb449b2e0fb4a8744034f82d3fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1277_Dessous_Des_Mesh.1277_Dessous_Des_DessousMat
+    second: {fileID: 2100000, guid: ee098993ff4d60a4e8d0e288e463dff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1279_Feux_rouge__Mesh.1279_Feux_rouge__Feux_rouge_cMat
+    second: {fileID: 2100000, guid: 36324ff56ea04814293b63c9a5135dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1280_Logo_Lo.001_Mesh.1280_Logo_Lo.001_LogoMat
+    second: {fileID: 2100000, guid: 8c38e87eba3e5164a94f8b4478c10757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1280_Logo_Lo.002_Mesh.1280_Logo_Lo.002_LogoMat
+    second: {fileID: 2100000, guid: 35b3e14a93f8e4e429d8c02b425fab93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1280_Logo_Lo.003_Mesh.1280_Logo_Lo.003_LogoMat
+    second: {fileID: 2100000, guid: 01e3ecbcc9d0ea34988fd78dda8d17a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1280_Logo_Lo_Mesh.1280_Logo_Lo_LogoMat
+    second: {fileID: 2100000, guid: fedd1b1f1f75dcd4ba9e139dbea044bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1280_Logo_Logo_Mesh.1280_Logo_Logo_LogoMat
+    second: {fileID: 2100000, guid: 3a4eb232ef2b7d3458c3ad206096e82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1281_Feux_orange_Mesh.1281_Feux_orange_Feux_orangeMat
+    second: {fileID: 2100000, guid: f61f6d3a971e3e846bc676d1330513b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1282_Miroir_Miro_Mesh.1282_Miroir_Miro_MiroirMat
+    second: {fileID: 2100000, guid: 649f286499cc26d4f8de320ca1d9ce9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1283_Phare_Phare_Mesh.1283_Phare_Phare_PhareMat
+    second: {fileID: 2100000, guid: 0da8826398cf20348906f013c1f2d39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1285_Vitre_Vitre_Mesh.1285_Vitre_Vitre_VitreMat
+    second: {fileID: 2100000, guid: ab97ee892aa881840b5a9deccee18c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1286_Metal_alu_M_Mesh.1286_Metal_alu_M_Metal_aluMat
+    second: {fileID: 2100000, guid: f2d3913f179f2714e93d5dd4b4eca1c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1288_Phare_vitre_Mesh.1288_Phare_vitre_Phare_vitreMat
+    second: {fileID: 2100000, guid: e39649beb74035f4da109678ebeaafaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1292_Disk_Di_Mesh.1292_Disk_Di_Disk_2Mat
+    second: {fileID: 2100000, guid: e34a41b7224a5f242ab52bf8b20c3bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh.1292_Disk_Disk_Mesh.1292_Disk_Disk_DiskMat
+    second: {fileID: 2100000, guid: 40dd8cebab4c4c04b918416ac51898a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.002Mat
+    second: {fileID: 2100000, guid: 2676e9d9efcf8a646b0a81953e8928b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_Mesh.1293_Materi_Mesh_Mesh.1293_Materi_Material.016Mat
+    second: {fileID: 2100000, guid: 346f52a697b8eb64eacdea8ff48c8e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_Pneus_Pneus_Pneu_None_Pneus_Pneus_Pneu_PneusMat
+    second: {fileID: 2100000, guid: 11de3e0ac69b3c542ac9d9d96d61b26d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_Pneus_Pneus__None_Pneus_Pneus__pneus2Mat
+    second: {fileID: 2100000, guid: 1aa3fdc69eacafd45a948f39c19b17ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.007_Plane.007_Material.017Mat
+    second: {fileID: 2100000, guid: bf0d7628fccc31044888d35b43b9a72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.008_Plane.008_Material.018_plaque_immat_lambo.pnMat
+    second: {fileID: 2100000, guid: 2cb3ddc891b9bc74dbca5258cef239ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
